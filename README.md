@@ -1,5 +1,5 @@
 # Machine-Learning-Project
-Spotify Recommendations
+Spotify Recommendations:-  
 we saw that the correlation between loudness and energy was high and correlation between loudness and accousticness was moderate rest all the correlation were quite low
 also found that nowadays people like more loud and energetic songs and accorduing to these which song might be on the top list of spotify for a long time
 if the loudness of the song is greater than -10dB than there is a chance of that song getting popular in the today's generation
